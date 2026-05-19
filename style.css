@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background: linear-gradient(135deg, #0f172a, #2563eb);
+  background: linear-gradient(135deg, #22b10f, #2563eb);
   color: white;
   text-align: center;
   padding: 60px 20px;
@@ -21,7 +21,7 @@ header {
 }
 
 button {
-  background: #2563eb;
+  background: #2e109c;
   color: white;
   border: none;
   padding: 12px 20px;
